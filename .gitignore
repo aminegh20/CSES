@@ -1,0 +1,5 @@
+# IntelliJ IDEA
+.idea/
+
+# CMake
+cmake-build-debug/
